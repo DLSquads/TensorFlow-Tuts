@@ -7,11 +7,11 @@ If this repository helps you in anyway, show your love :heart: by putting a :sta
 Directory structure we will be following is:
 
 ```
-TensorFlow-Tuts<br/>
- |---datasets<br/>
- |      |---Dataset for every notebook will be in separate folder<br/>
- |---notebooks<br/>
- |      |---01-TensorFlowBasics.ipybn<br/>
+TensorFlow-Tuts
+ |---datasets
+ |      |---Dataset for every notebook will be in separate folder
+ |---notebooks
+ |      |---01-TensorFlowBasics.ipybn
  |      |---other notebooks...
 ```
 > Note: Datasets folder will be gitignored.
