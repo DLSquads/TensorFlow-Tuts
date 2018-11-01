@@ -18,11 +18,12 @@ TensorFlow-Tuts
 
 ## Index
 
-|S.No.|Notebook link                                                     | What it has in store?|
-|:---:|:-----------------------------------------------------------------|:---------------------|
-|1.   |[01.TensorflowBasics.ipynb](./notebooks/01.TensorflowBasics.ipynb)|Simple tensorflow examples with differentiation between Static and Dynamic Graphs|
-|2.   |[02.SingleLayerNN.ipynb](./notebooks/02.SingleLayerNN.ipynb)      |Train a single layered linear model for MNIST dataset|
-|3.   |[03.GradientDescentAndVariants.ipynb](./notebooks/03.GradientDescentAndVariants.ipynb)            |Work with various variants of Gradient Descent|
+|S.No.|Notebook link                                                                         | What it has in store?|
+|:---:|:-------------------------------------------------------------------------------------|:---------------------|
+|1.   |[01.TensorflowBasics.ipynb](./notebooks/01.TensorflowBasics.ipynb)                    |Simple tensorflow examples with differentiation between Static and Dynamic Graphs|
+|2.   |[02.SingleLayerNN.ipynb](./notebooks/02.SingleLayerNN.ipynb)                          |Train a single layered linear model for MNIST dataset|
+|3.   |[03.GradientDescentAndVariants.ipynb](./notebooks/03.GradientDescentAndVariants.ipynb)|Work with various variants of Gradient Descent|
+|4.   |[04.Tf-keras-API.ipynb](./notebooks/04.Tf-keras-API.ipynb)                            |Have a look at Keras API|
 
 
 ## Contributions
