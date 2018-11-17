@@ -24,6 +24,7 @@ TensorFlow-Tuts
 |2.   |[02.SingleLayerNN.ipynb](./notebooks/02.SingleLayerNN.ipynb)                          |Train a single layered linear model for MNIST dataset|
 |3.   |[03.GradientDescentAndVariants.ipynb](./notebooks/03.GradientDescentAndVariants.ipynb)|Work with various variants of Gradient Descent|
 |4.   |[04.Tf-keras-API.ipynb](./notebooks/04.Tf-keras-API.ipynb)                            |Have a look at Keras API|
+|5.   |[05.ConvolutionalNets.ipynb](./notebooks/05.ConvolutionalNets.ipynb)                  |Learn about how CNNs work|
 
 
 ## Contributions
